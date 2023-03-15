@@ -72,3 +72,35 @@ init - создание процесса fork - копирование проц�
 
 
 Файловая система - 
+![image](https://user-images.githubusercontent.com/97594164/225226759-bc242f50-4335-4eba-b8ca-0caf467e384f.png)
+
+ Путь к файлу : 
+ Абсолютный ![image](https://user-images.githubusercontent.com/97594164/225226950-3daf052c-1401-4914-9b6f-6790a786efe3.png) </br>
+ Относительный 
+![image](https://user-images.githubusercontent.com/97594164/225227036-8b0b0e08-a722-4837-b2c7-4d3b2a400e15.png) </br>
+
+# Прерывания.
+Планировщик процессов  </br>
+
+![image](https://user-images.githubusercontent.com/97594164/225227548-5ba04eb5-2761-48c9-9787-1802d991406b.png)
+
+Прерывания:
+Аппаратные  </br>
+Программные  </br>
+Маскируемые </br>
+
+![image](https://user-images.githubusercontent.com/97594164/225228017-48fef2f4-20b2-4f8e-acd9-22251ae36f24.png)
+
+
+Исключения : 
+Режим трассировщика </br>
+Ошибка адресации </br>
+Недопустиимые операции </br>
+
+Планировщик процессов
+![image](https://user-images.githubusercontent.com/97594164/225228511-62af0282-2a61-411c-8621-e3a299e2dd9c.png)
+![image](https://user-images.githubusercontent.com/97594164/225228588-55bf8e61-4773-4dde-b218-431be36bc06e.png)
+![image](https://user-images.githubusercontent.com/97594164/225228965-a39aa4c4-bb67-4973-af93-1ec583041ac5.png)
+![image](https://user-images.githubusercontent.com/97594164/225229174-63f65415-8e9f-4329-86b9-fcf178965529.png)
+
+
