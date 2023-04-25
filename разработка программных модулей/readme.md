@@ -43,6 +43,7 @@
     {
  [Test]
     public void Testumn()
+    }
     {
         // Arrange - перечислить входные данные и ожидаемый результат
         float a = 4;
@@ -80,5 +81,5 @@
         Assert.Pass();
         Assert.AreEqual(expected, actual);
     }
-}
+  }
 }
